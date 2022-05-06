@@ -1,0 +1,540 @@
+,answer,ans_score,senti_score,label,dummy
+0,I will turn to policy,0.07449435442686081,-0.8325038552284241,NEGATIVE,0
+1,rent as a component of inflation will accelerate,0.5200746655464172,0.9939327836036682,POSITIVE,1
+2,"policyto promote maximum, inclusive employment and price stabilityare",0.018679693341255188,0.9953529834747314,POSITIVE,1
+3,Keeping longer-term inflation expectations anchored,0.4996494948863983,0.9224894642829895,POSITIVE,1
+4,monetary policy,0.5109872221946716,0.9795569181442261,POSITIVE,1
+5,consequent policy choices,0.07916687428951263,0.9186176657676697,POSITIVE,1
+6,is not costless,0.08148595690727234,0.9979696869850159,POSITIVE,1
+7,"unprecedented in its scale, scope, and speed",0.07362280786037445,0.99937903881073,POSITIVE,1
+8,cannot singlehandedly resolve Indian Country's credit needs,0.24022726714611053,-0.9994638562202454,NEGATIVE,0
+9,rapid innovation,0.006877383682876825,0.999853253364563,POSITIVE,1
+10,monetary policy does not need to respond to temporary price pressures,0.15635842084884644,0.6648718118667603,POSITIVE,1
+11,"Today stablecoins lack that oversight, and its absence does create risks",0.026821700856089592,-0.9979546070098877,NEGATIVE,0
+12,beyond the power of monetary policy to address,0.08970790356397629,-0.9190054535865784,NEGATIVE,0
+13,rising home prices and rents raise the cost of housing,0.05150049552321434,0.9921523928642273,POSITIVE,1
+14,Long-standing disparities weigh on the productive capacity of our economy,0.015131950378417969,-0.9463853240013123,NEGATIVE,0
+15,the ELB is not a constraint on fiscal policy,0.14443063735961914,0.9952367544174194,POSITIVE,1
+16,policymakers need to ensure that the regulatory and supervisory framework,0.09220409393310547,-0.8094775080680847,NEGATIVE,0
+17,we could easily find that demand is damping,0.09912312030792236,-0.9968026876449585,NEGATIVE,0
+18,there is no need for a policy change,0.32042986154556274,0.9947927594184875,POSITIVE,1
+19,it is also necessary to encourage research on potential solutions,0.027033573016524315,0.9988582134246826,POSITIVE,1
+20,"lient, vigilant, and agile",0.03575817868113518,0.9995682835578918,POSITIVE,1
+21,price stability,0.4110710620880127,0.9980217218399048,POSITIVE,1
+22,could strengthen reservation economies and the well-being of tribal members,0.009680671617388725,0.9948664903640747,POSITIVE,1
+23,Federal Reserve monetary policy,0.23291391134262085,-0.5105898380279541,NEGATIVE,0
+24,it is important to model the transition risks,0.004955980461090803,0.9880335927009583,POSITIVE,1
+25,they use strong fallback provisions,0.10763604938983917,-0.8897114396095276,NEGATIVE,0
+26,preserves what we know works,0.08768860250711441,0.9998034834861755,POSITIVE,1
+27,we must remain faithful to our new framework and attentive to changing conditions,0.1430758833885193,0.9984896183013916,POSITIVE,1
+28,That has always been crucial in how we conduct monetary policy,0.07787609100341797,0.9987044334411621,POSITIVE,1
+29,technology enabled the expansion of the range of learning alternatives,0.06842125207185745,0.999666690826416,POSITIVE,1
+30,"knowing that things do change, and sometimes they change quickly",0.019377289339900017,0.9795200824737549,POSITIVE,1
+31,"Eliminating currency is a policy choice, however, not an economic outcome",0.2042858600616455,-0.9988657236099243,NEGATIVE,0
+32,we remain in the recovery phase of the cycle in terms of aggregate employment,0.3591952919960022,0.9460881352424622,POSITIVE,1
+33,we will continue to build on this recent positive momentum,0.13131840527057648,0.9996678829193115,POSITIVE,1
+34,the economy's momentum is sufficient,0.028050493448972702,0.9992856383323669,POSITIVE,1
+35,it is truly wonderful to see so many people in person.,0.05305948480963707,0.9998836517333984,POSITIVE,1
+36,"last but not least, credible U.S. monetary policy",0.2620876431465149,0.992925763130188,POSITIVE,1
+37,The Federal Reserve is committed to supporting the economic recovery,0.013913989067077637,0.9988694787025452,POSITIVE,1
+38,Our policy has been to maintain a 0 percent CCyB,0.07939603179693222,-0.9830284118652344,NEGATIVE,0
+39,continued vigilance is warranted,0.08651129901409149,0.9991185069084167,POSITIVE,1
+40,we are poised to enter a robust and durable expansion.,0.21429459750652313,0.9997933506965637,POSITIVE,1
+41,I look forward to engaging with you all in the future.,0.10046179592609406,0.9998705387115479,POSITIVE,1
+42,Preserve financial stability and monetary policy transmission,0.10183405131101608,0.999037504196167,POSITIVE,1
+43,temporary,0.2507377862930298,-0.992966890335083,NEGATIVE,0
+44,will not be sufficient to trigger a tightening of monetary policy,0.32198816537857056,-0.9997766613960266,NEGATIVE,0
+45,basing monetary policy on outcomes,0.03673740476369858,0.9586024284362793,POSITIVE,1
+46,odative stance,0.3822632133960724,0.7488718032836914,POSITIVE,1
+47,what you do is essential,0.2274312674999237,0.9998315572738647,POSITIVE,1
+48,the work we have laid out for 2021 does just that.,0.12219259887933731,0.9986076951026917,POSITIVE,1
+49,Monetary policy has not and will not be conducted for these purposes.,0.18501588702201843,-0.997051477432251,NEGATIVE,0
+50,Federal Reserve monetary policy,0.07368708401918411,-0.5105898380279541,NEGATIVE,0
+51,monetary policy can take a patient approach rather than a preemptive approach,0.21136637032032013,0.8173080682754517,POSITIVE,1
+52,it will be critical to make progress,0.020202141255140305,-0.9988805651664734,NEGATIVE,0
+53,monetary policy has successfully delivered favorable borrowing conditions,0.32773175835609436,0.999347984790802,POSITIVE,1
+54,legislation is a necessary step to address these contracts,0.12712879478931427,0.9965044260025024,POSITIVE,1
+55,increase financial inclusion,0.027826637029647827,0.9997164607048035,POSITIVE,1
+56,monetary policy will remain accommodative,0.1320262849330902,0.9857123494148254,POSITIVE,1
+57,it is valuable to deploy macroprudential tools,0.03129482641816139,0.9986010193824768,POSITIVE,1
+58,expanded our internally-run analysis to meet the evolving conditions,0.038944825530052185,0.997622549533844,POSITIVE,1
+59,"the Federal Reserve's monetary policy, and our new monetary policy framework",0.045996006578207016,0.9845046997070312,POSITIVE,1
+60,.,0.002177797956392169,0.9668781757354736,POSITIVE,1
+61,Let me start by noting that these are my own views,0.037178538739681244,0.8794260621070862,POSITIVE,1
+62,accessible innovation and technology integration,0.03863326460123062,0.9998432397842407,POSITIVE,1
+63,monetary policy will remain accommodative after liftoff,0.2188287377357483,0.9879311323165894,POSITIVE,1
+64,financial inclusion,0.007880874909460545,0.9997215867042542,POSITIVE,1
+65,"Federal Reserve monetary policy, and our new monetary policy framework",0.10063477605581284,0.9786797761917114,POSITIVE,1
+66,New tools and forward-looking approaches will be required,0.011011163704097271,0.9468253254890442,POSITIVE,1
+67,advances the core purpose of the statute,0.02890412136912346,0.9997064471244812,POSITIVE,1
+68,I am supposed to be an inexhaustible supply of money,0.0932265967130661,-0.9978392720222473,NEGATIVE,0
+69,our rules and guidance need to keep pace,0.02835078351199627,-0.9941629767417908,NEGATIVE,0
+70,The combination of highly supportive fiscal policy,0.029307305812835693,0.9982547163963318,POSITIVE,1
+71,moderate-income areas,0.07567146420478821,0.9908366203308105,POSITIVE,1
+72,decision-making on monetary policy,0.31145375967025757,0.974726676940918,POSITIVE,1
+73,the views expressed are my own,0.12564703822135925,0.9903197884559631,POSITIVE,1
+74,we expanded,0.15817025303840637,0.9996874332427979,POSITIVE,1
+75,monetary policy will remain accommodative after liftoff,0.13860587775707245,0.9879311323165894,POSITIVE,1
+76,require greater effort,0.5519676208496094,0.5978325009346008,POSITIVE,1
+77,Addressing vulnerabilities in the financial system going forward,0.06658782809972763,0.9514826536178589,POSITIVE,1
+78,Federal Reserve monetary policy,0.3180391788482666,-0.5105898380279541,NEGATIVE,0
+79,Community Reinvestment Act reform,0.015342366881668568,0.9761232733726501,POSITIVE,1
+80,"I will simply raise that question, but not attempt to answer it here.",0.017115551978349686,-0.5062369704246521,NEGATIVE,0
+81,it will provide additional support for the recovery,0.08610110729932785,0.9986799359321594,POSITIVE,1
+82,"Federal Reserve monetary policy, and our new monetary policy framework",0.1326047033071518,0.9786797761917114,POSITIVE,1
+83,The expansion is still far from complete,0.3299330472946167,-0.9995496869087219,NEGATIVE,0
+84,Taking steps to simplify and lower this regulatory burden,0.011935552582144737,-0.9708506464958191,NEGATIVE,0
+85,community banks play a vital role in the communities you serve,0.012306326068937778,0.9992548823356628,POSITIVE,1
+86,Policymakers will need to remain vigilant.,0.36043769121170044,-0.9988095760345459,NEGATIVE,0
+87,it is likely that accommodation would have been withdrawn later,0.13532891869544983,-0.9993971586227417,NEGATIVE,0
+88,Timely and supportive fiscal and monetary policy measures also have helped,0.4181491732597351,0.9997960925102234,POSITIVE,1
+89,I approach our monetary policy deliberations in a similar way,0.28277429938316345,0.8748056292533875,POSITIVE,1
+90,We are expanding our use of cloud computing to enhance our operations,0.17102506756782532,0.9988425970077515,POSITIVE,1
+91,we are announcing a phased approach,0.008276845328509808,-0.9708705544471741,NEGATIVE,0
+92,Financing conditions remain broadly accommodative on balance,0.5617122650146484,0.9901841282844543,POSITIVE,1
+93,Decades of bank expansion and cross-border integration,0.03181286156177521,0.992908239364624,POSITIVE,1
+94,We were experiencing the longest expansion on record,0.20506003499031067,-0.9236670136451721,NEGATIVE,0
+95,We will not hesitate to take additional policy actions,0.10513907670974731,0.9988184571266174,POSITIVE,1
+96,fostering effective transmission of monetary policy to broader financial conditions,0.27079761028289795,0.9997128844261169,POSITIVE,1
+97,We have heard that maximum employment is not captured in a single national average,0.013028562068939209,-0.9967830181121826,NEGATIVE,0
+98,it takes on even greater importance,0.13324841856956482,0.9980765581130981,POSITIVE,1
+99,unprecedented,0.10817096382379532,0.9981545805931091,POSITIVE,1
+100,lower inflation levels,0.23201791942119598,-0.9914340972900391,NEGATIVE,0
+101,The devastation is demanding,3.909832958015613e-05,-0.9984594583511353,NEGATIVE,0
+102,We are deploying these lending powers to an unprecedented extent,0.00959385372698307,0.9968323111534119,POSITIVE,1
+103,it is essential we continue to meaningfully engage with stakeholders on these issues,0.05304981395602226,0.9996745586395264,POSITIVE,1
+104,monetary policy is not on a preset course,0.3785324692726135,-0.9933993816375732,NEGATIVE,0
+105,judgment is required,0.3474424481391907,0.9680613875389099,POSITIVE,1
+106,there are risks,0.19999687373638153,-0.9828612804412842,NEGATIVE,0
+107,transmitting monetary policy,0.13243043422698975,0.9661462306976318,POSITIVE,1
+108,This policy setting should help support the economic expansion,0.25895199179649353,0.9758544564247131,POSITIVE,1
+109,Methods of Policy Accommodation,0.10267992317676544,-0.6164342164993286,NEGATIVE,0
+110,it is essential that we remain on the frontier of research and policy development,0.07463879883289337,0.998594343662262,POSITIVE,1
+111,it is a practice we should avoid,0.0658191666007042,-0.9988873600959778,NEGATIVE,0
+112,percent objective,0.06684279441833496,0.997580885887146,POSITIVE,1
+113,not on a preset course,0.26594284176826477,-0.9946709275245667,NEGATIVE,0
+114,adjust policy accordingly,0.19092173874378204,0.9893314838409424,POSITIVE,1
+115,Are existing monetary policy tools adequate to achieve and maintain maximum employment and price stability,0.06252527236938477,0.9901874661445618,POSITIVE,1
+116,the FSB's policy work needs to advance in a few important areas,0.09405037760734558,-0.9604601263999939,NEGATIVE,0
+117,Congress has assigned the Federal Reserve specific responsibilities,0.31595805287361145,0.9575139284133911,POSITIVE,1
+118,"It is, instead, sufficient for the proper operation of the price mechanism",0.2394452691078186,-0.9908213019371033,NEGATIVE,0
+119,monetary policy is in a good place,0.38368090987205505,0.9998544454574585,POSITIVE,1
+120,That is not to say that we have all of the solutions,0.004200030118227005,-0.8580947518348694,NEGATIVE,0
+121,monetary policy is not on a preset course,0.3551613688468933,-0.9933993816375732,NEGATIVE,0
+122,Your perspectives on questions like these are a vital part of this monetary policy review,0.09806188195943832,0.9978063702583313,POSITIVE,1
+123,monetary policy transmission and guarding against illicit activity and cyber risks,0.1257542073726654,-0.9000974893569946,NEGATIVE,0
+124,We are also looking at whether our existing monetary policy tools will be adequate,0.030667761340737343,-0.9945809245109558,NEGATIVE,0
+125,separated government debt management from monetary policy,0.09498634189367294,0.9823227524757385,POSITIVE,1
+126,We are also looking at whether our existing monetary policy tools will be adequate,0.04212671145796776,-0.9945809245109558,NEGATIVE,0
+127,"it had to be credible, and it had to be global.",0.03936290740966797,-0.9983848333358765,NEGATIVE,0
+128,just in its infancy,0.12073936313390732,-0.95062255859375,NEGATIVE,0
+129,There was no change to the European Central Bank's monetary policy mandate,0.5797519683837891,-0.9872093200683594,NEGATIVE,0
+130,it is also self-sustaining,0.06666554510593414,0.9970846772193909,POSITIVE,1
+131,Are existing monetary policy tools adequate to achieve and maintain maximum employment and price stability,0.29606640338897705,0.9901874661445618,POSITIVE,1
+132,Let me expand on those two goals,0.4471396803855896,0.9982728958129883,POSITIVE,1
+133,This kind of comprehensive outreach on monetary policy is new for the Fed,0.05918193235993385,0.9961333274841309,POSITIVE,1
+134,our work will be useful,0.011337769217789173,0.9995418787002563,POSITIVE,1
+135,We are not making this decision lightly,0.07924999296665192,0.9979992508888245,POSITIVE,1
+136,I will consider how these structural changes are affecting the framework,0.03958272188901901,0.9409860968589783,POSITIVE,1
+137,uncertainty,0.2225475162267685,-0.9932219982147217,NEGATIVE,0
+138,it is vital that an adjustment such as this takes place as appropriate,0.0700375959277153,0.9985949397087097,POSITIVE,1
+139,We simply can't let these things happen,0.06692396104335785,-0.9909646511077881,NEGATIVE,0
+140,Inflation Dynamics and Monetary Policy,0.14989452064037323,-0.9288848042488098,NEGATIVE,0
+141,monetary policy,0.03805777058005333,0.9795569181442261,POSITIVE,1
+142,It is your presence in these communities,0.013480459339916706,0.9991807341575623,POSITIVE,1
+143,expansion is continuing at a solid pace and unemployment at a 50-year low,0.04935019463300705,0.9888610243797302,POSITIVE,1
+144,the Fed's monetary policy affects the regional economy,0.011718221940100193,0.9279565811157227,POSITIVE,1
+145,we will act as appropriate to sustain the expansion,0.17516791820526123,0.9991335272789001,POSITIVE,1
+146,I am sure that the rest of the roundtable will do so as well,0.04632134735584259,0.9991416931152344,POSITIVE,1
+147,the current long expansion has brought business borrowing,0.05777916684746742,0.9936575293540955,POSITIVE,1
+148,monetary policy should beand in the United States,0.16904407739639282,-0.9966222047805786,NEGATIVE,0
+149,Inflation Dynamics and Monetary Policy,0.5529617071151733,-0.9288848042488098,NEGATIVE,0
+150,"our review is more likely to produce evolution, not a revolution",0.1129988506436348,-0.9948882460594177,NEGATIVE,0
+151,the memory of the previous recession fades,0.26236170530319214,-0.9996570348739624,NEGATIVE,0
+152,Inflation Dynamics and Monetary Policy,0.21204498410224915,-0.9288848042488098,NEGATIVE,0
+153,Sound public policies,0.02590091899037361,0.9997228980064392,POSITIVE,1
+154,Main Street,0.2725031077861786,0.9942546486854553,POSITIVE,1
+155,Conclusion,0.01703682355582714,0.9975615739822388,POSITIVE,1
+156,the current stance of monetary policy is appropriate,0.05778174847364426,0.9983313679695129,POSITIVE,1
+157,transition paths away from LIBOR will become clearer for banks of all sizes,0.0124973701313138,0.9054309129714966,POSITIVE,1
+158,Discretionary Monetary Policy,0.27620935440063477,0.8426026105880737,POSITIVE,1
+159,This is not an abstract notion,0.14764326810836792,-0.9994695782661438,NEGATIVE,0
+160,The intent was to expand our outreach beyond the membership of the G20,0.0805189311504364,0.9964967370033264,POSITIVE,1
+161,I would not expect such situations to be the norm,0.09120960533618927,0.5784394145011902,POSITIVE,1
+162,The Federal Reserve's monetary policy mandate is twofold,0.11459149420261383,0.8810989856719971,POSITIVE,1
+163,global crosscurrents are again posing challenges,0.0251485463231802,0.9403323531150818,POSITIVE,1
+164,decentralization,0.08552642911672592,0.9890410304069519,POSITIVE,1
+165,2019 National Agricultural Credit Conference,0.011547215282917023,0.9942381381988525,POSITIVE,1
+166,because the sole purpose of CDFIs is community development,0.019880548119544983,-0.9913150668144226,NEGATIVE,0
+167,any revisions serve to strengthen the CRA's purpose,0.004305577836930752,0.9909920692443848,POSITIVE,1
+168,inflation,0.014638899825513363,-0.9965974688529968,NEGATIVE,0
+169,monetary policy at this juncture needs to be especially data dependent,0.354493647813797,-0.9974844455718994,NEGATIVE,0
+170,You can craft policy to change our world.,0.12553656101226807,0.9995095729827881,POSITIVE,1
+171,the Fed remains entirely focused on meeting its statutory dual-mandate objectives,0.06586673110723495,-0.7768157720565796,NEGATIVE,0
+172,normalization,0.49691346287727356,0.9236323237419128,POSITIVE,1
+173,The Federal Reserve,0.2792890667915344,0.6214829683303833,POSITIVE,1
+174,we can agree that we must keep our financial system strong,0.019612004980444908,0.9941819310188293,POSITIVE,1
+175,we cannot be complacent,0.18401482701301575,-0.9847758412361145,NEGATIVE,0
+176,Monetary policy can be a powerful tool to achieve these ends,0.07209693640470505,0.9988442659378052,POSITIVE,1
+177,U.S. monetary policy is the sole responsibility of the Federal Reserve,0.3452856242656708,0.7884876132011414,POSITIVE,1
+178,simplifying and clarifying the regulations,0.059447064995765686,0.993278443813324,POSITIVE,1
+179,monetary policy is not on a preset course,0.27547475695610046,-0.9933993816375732,NEGATIVE,0
+180,It needs no retelling,0.04621737077832222,-0.9371005892753601,NEGATIVE,0
+181,the benefits of the ongoing economic expansion are still not reaching some communities,0.18301847577095032,-0.9984772801399231,NEGATIVE,0
+182,"Going forward, we will look to celebrate staff within the System",0.07683943212032318,0.9998202919960022,POSITIVE,1
+183,"exchange ideas, and identify shared interests that foster local partnerships and comprehensive solutions",0.07513648271560669,0.9997367262840271,POSITIVE,1
+184,Consequences for Monetary Policy,0.06608805805444717,-0.9897865056991577,NEGATIVE,0
+185,Conclusion,0.005533388815820217,0.9975615739822388,POSITIVE,1
+186,the opacity of AI products,0.06413589417934418,-0.9975342750549316,NEGATIVE,0
+187,Conclusion As we begin the next chapter in stress testing,0.04238854721188545,0.9054552316665649,POSITIVE,1
+188,monetary policy remains accommodative,0.2703651189804077,0.9731559157371521,POSITIVE,1
+189,argues for just the same approach to navigation,0.05596724525094032,-0.9963249564170837,NEGATIVE,0
+190,inclusion policies,0.08794793486595154,0.9984788298606873,POSITIVE,1
+191,it requires that we have a strong understanding,0.01115513127297163,0.9983751773834229,POSITIVE,1
+192,constraints,0.12498986721038818,-0.9977561831474304,NEGATIVE,0
+193,this question called for very low interest rates,0.04780936613678932,-0.9937431216239929,NEGATIVE,0
+194,our current expansion appears to be no exception,0.08269120007753372,-0.9899705052375793,NEGATIVE,0
+195,good public policy,0.19530734419822693,0.9998443126678467,POSITIVE,1
+196,It is useful when the credibility and commitment of the decisions are especially important,0.1463734656572342,0.9935479760169983,POSITIVE,1
+197,the need for highly accommodative monetary policy was clear.,0.1719958335161209,0.9929338693618774,POSITIVE,1
+198,monetary policies among the advanced economies look likely to be divergent for some time,0.38603541254997253,-0.9564968943595886,NEGATIVE,0
+199,While the focus is often on monetary policy independence,0.017929567024111748,0.951156735420227,POSITIVE,1
+200,"At a minimum, revised CRA regulations",0.09523043036460876,-0.7509320378303528,NEGATIVE,0
+201,our rules seek to ensure that there are sufficient resources in the United States,0.010146122425794601,-0.9092468619346619,NEGATIVE,0
+202,financial stability,0.06669086217880249,0.9985895752906799,POSITIVE,1
+203,build resilience,0.4624174237251282,0.9995705485343933,POSITIVE,1
+204,expand the area where we evaluate a bank's CRA performance,0.021116001531481743,0.9982106685638428,POSITIVE,1
+205,important implications for financial vulnerabilities,0.01747276447713375,0.9497517347335815,POSITIVE,1
+206,"economy is performing well, and unemployment is low",0.006544096861034632,-0.9536942839622498,NEGATIVE,0
+207,We will need to be vigilant,0.563466489315033,-0.9905509948730469,NEGATIVE,0
+208,require extraordinary support from local authorities,0.03209487348794937,0.9988358616828918,POSITIVE,1
+209,the Federal Reserve is committed to getting it right,0.0086256368085742,0.9957634210586548,POSITIVE,1
+210,monetary policy remains accommodative,0.33627787232398987,0.9731559157371521,POSITIVE,1
+211,monetary policy should continue to be gradually normalized,0.2598382234573364,0.8302835822105408,POSITIVE,1
+212,monetary policy has continued,0.40469157695770264,0.9957045912742615,POSITIVE,1
+213,We should explore ways to bring these criteria into better alignment with our objectives,0.007284053135663271,-0.7184668183326721,NEGATIVE,0
+214,only is the national unemployment rate low,0.0037844639737159014,-0.9974959492683411,NEGATIVE,0
+215,we should recognize that there can be a tension between the need for financial stability,0.014180530793964863,-0.9735960960388184,NEGATIVE,0
+216,do not store the consumers' banking credentials,0.03603938966989517,-0.9991617202758789,NEGATIVE,0
+217,important considerations informing judgments about policy,0.002880224958062172,0.9979305267333984,POSITIVE,1
+218,The Federal Reserve's very effectiveness,0.500295102596283,0.9996408224105835,POSITIVE,1
+219,neither expansionary nor contractionary,0.24921511113643646,-0.9608089923858643,NEGATIVE,0
+220,there is more to be done,0.08643466979265213,-0.9452799558639526,NEGATIVE,0
+221,neither expansionary nor contractionary,0.49147915840148926,-0.9608089923858643,NEGATIVE,0
+222,the available tools are not likely to be sufficient,0.3313530683517456,-0.9997671246528625,NEGATIVE,0
+223,More regulation is not the best answer to every problem,0.0234393160790205,-0.9997552037239075,NEGATIVE,0
+224,I hope you have a terrific conference.,0.0226493701338768,0.9998626708984375,POSITIVE,1
+225,inflation-become-harder-forecast,0.11168191581964493,-0.9981237053871155,NEGATIVE,0
+226,Conclusion We need financial institutions that are strong enough to support economic growth,0.018322091549634933,0.8351784348487854,POSITIVE,1
+227,rapid expansion of liquidity transformation outside of the regulated depository sector,0.029809730127453804,0.9989211559295654,POSITIVE,1
+228,if economics seems like a great fit,0.05700739473104477,0.9915114045143127,POSITIVE,1
+229,completely redrawing the system may not be necessary,0.025473706424236298,-0.999714195728302,NEGATIVE,0
+230,Leverage in the financial sector is at historically low levels,0.1335992068052292,-0.9995906949043274,NEGATIVE,0
+231,not free,0.00020382819639053196,-0.9986948370933533,NEGATIVE,0
+232,limit credit growth and the rate of house price appreciation,0.19418811798095703,-0.975263237953186,NEGATIVE,0
+233,the economy has proven unable to sustain its expansion,0.07799908518791199,-0.9997128844261169,NEGATIVE,0
+234,better assess potential tradeoffs in monetary policy,0.0541343055665493,-0.693104088306427,NEGATIVE,0
+235,43 A number of studies have examined the role of various public policies,0.03135909140110016,0.9709135890007019,POSITIVE,1
+236,a decision of this kind is unlikely to occur in practice,0.10216809064149857,-0.9988272786140442,NEGATIVE,0
+237,they are required to provide the relevant authorities detailed reasoning for the rejection,0.025367580354213715,0.8561863899230957,POSITIVE,1
+238,these policies are not in the purview of the Federal Reserve,0.132566899061203,-0.9985955357551575,NEGATIVE,0
+239,U.S. policy normalization will be gradual,0.15809427201747894,-0.989563524723053,NEGATIVE,0
+240,maximum sustainable employment,0.2716180682182312,0.9998144507408142,POSITIVE,1
+241,altering the enhanced supplementary leverage ratio requirement,0.03634687140583992,0.9813825488090515,POSITIVE,1
+242,Somerville is now seeking to expand the initiative,0.17011062800884247,0.9850287437438965,POSITIVE,1
+243,purposefully or unintentionally--by public policies,0.045064784586429596,-0.987950325012207,NEGATIVE,0
+244,neither expansionary nor contractionary,0.36368894577026367,-0.9608089923858643,NEGATIVE,0
+245,"committees are, on average, likely to make better monetary policy decisions",0.1395704746246338,-0.9964523315429688,NEGATIVE,0
+246,they should also consider whether the private sector can substantially meet the same needs,0.02172347903251648,-0.9942915439605713,NEGATIVE,0
+247,no larger than necessary,0.24091234803199768,-0.9936665892601013,NEGATIVE,0
+248,inexact sciences,0.7358027100563049,-0.5948337912559509,NEGATIVE,0
+249,inflationary pressures remain muted,0.4406639039516449,-0.9986080527305603,NEGATIVE,0
+250,monetary policy can be a powerful and effective tool to these ends,0.14821389317512512,0.9995710253715515,POSITIVE,1
+251,these thresholds were set too low in places,0.09972002357244492,-0.9992983341217041,NEGATIVE,0
+252,digitization of finance,0.05229323357343674,0.9897612929344177,POSITIVE,1
+253,does not have to be confined to monetary policy,0.31356281042099,0.9982605576515198,POSITIVE,1
+254,the growth of contingent work affects the way we assess maximum employment,0.07012449949979782,0.9907535314559937,POSITIVE,1
+255,monetary policy is not on a preset course,0.3100475072860718,-0.9933993816375732,NEGATIVE,0
+256,labor market conditions before moving on to discuss the economic outlook and monetary policy,0.038437653332948685,-0.8289775848388672,NEGATIVE,0
+257,Today's situation is very different,0.007401478476822376,0.9750111699104309,POSITIVE,1
+258,It is only moderately reductionist,0.2251211404800415,-0.891221284866333,NEGATIVE,0
+259,"normal, or neutral, level of interest rates",0.08213527500629425,-0.9680665135383606,NEGATIVE,0
+260,neither expansionary nor contractionary,0.24244150519371033,-0.9608089923858643,NEGATIVE,0
+261,ing certain aspects of contracts is not new,0.016976704820990562,-0.9991280436515808,NEGATIVE,0
+262,it is as vital to the Federal Reserve as it is to your employers,0.017989402636885643,0.9953024387359619,POSITIVE,1
+263,economic policy decisions are better when informed by a wide range of views and experiences,0.026645619422197342,0.9821303486824036,POSITIVE,1
+264,the low neutral rate looks likely to persist,0.17697928845882416,-0.9937623143196106,NEGATIVE,0
+265,It implicates some elements of monetary policy,0.3993845283985138,0.6255136132240295,POSITIVE,1
+266,if living standards are to continue to rise over generations,0.5133349299430847,0.9990455508232117,POSITIVE,1
+267,If that criterion and several others are met,0.01487345714122057,0.9523895382881165,POSITIVE,1
+268,"Simply put, this effort is something that needs to happen",0.03456515073776245,-0.951124906539917,NEGATIVE,0
+269,not on a preset course,0.527710497379303,-0.9946709275245667,NEGATIVE,0
+270,the appropriate path of policy is likely to remain shallow for several years,0.23086589574813843,-0.9995346069335938,NEGATIVE,0
+271,bifurcated approach to a capital regime,0.023686667904257774,-0.9910159111022949,NEGATIVE,0
+272,want to facilitate innovation where it has the potential to yield public benefit,0.03586575761437416,0.9991140961647034,POSITIVE,1
+273,Discretionary Monetary Policy,0.4031972587108612,0.8426026105880737,POSITIVE,1
+274,Measuring the Natural Rate of Interest Redux,0.5663987994194031,0.9717963337898254,POSITIVE,1
+275,mmodative monetary policy for some time,0.0941399559378624,-0.8894631862640381,NEGATIVE,0
+276,our monetary policy remains accommodative,0.3269389271736145,0.5412258505821228,POSITIVE,1
+277,if necessary and appropriate,0.10645121335983276,0.9991362690925598,POSITIVE,1
+278,our monetary policy remains accommodative,0.16145823895931244,0.5412258505821228,POSITIVE,1
+279,Interconnectedness and Systemic Risk,0.1088164895772934,-0.689769983291626,NEGATIVE,0
+280,it is possible to develop a simpler set of capital requirements,0.013655495829880238,0.6945233941078186,POSITIVE,1
+281,when it is above the neutral rate,0.5552754998207092,-0.968699038028717,NEGATIVE,0
+282,I do realize that a single 12-minute roundtrip episode,0.007985091768205166,-0.9976782202720642,NEGATIVE,0
+283,unclear,0.11952724307775497,-0.9992030262947083,NEGATIVE,0
+284,Inflation Dynamics and Monetary Policy,0.10103663802146912,-0.9288848042488098,NEGATIVE,0
+285,it is crucial,0.009829350747168064,0.9992521405220032,POSITIVE,1
+286,monetary policy has shouldered a large share of the policy response.,0.1623612940311432,0.8705314993858337,POSITIVE,1
+287,the FSB cannot serve the original Basel Committee purpose either,0.03419090807437897,-0.9991198182106018,NEGATIVE,0
+288,monetary policy independence remains of the highest importance,0.4832288324832916,0.9939024448394775,POSITIVE,1
+289,unimpeachable source of information and analysis about the economy,0.026094092056155205,-0.9913041591644287,NEGATIVE,0
+290,these regulations are new,0.027134377509355545,0.908917248249054,POSITIVE,1
+291,we are looking at a wide range of suggestions and options,0.017485598102211952,0.9959474205970764,POSITIVE,1
+292,monetary policy operates with a lag,0.32616302371025085,-0.9993650317192078,NEGATIVE,0
+293,monetary policy normalization in the United States will only occur in,0.2218858301639557,-0.9964917302131653,NEGATIVE,0
+294,there may be some limits,0.05137287825345993,-0.9127439260482788,NEGATIVE,0
+295,new and existing regulations are not unduly burdensome for community banks,0.0038489613216370344,0.9798852801322937,POSITIVE,1
+296,focuses only on assuring sufficient assets over time,0.12442821264266968,-0.9958490133285522,NEGATIVE,0
+297,Treasury markets are important,0.0535760335624218,0.9952377080917358,POSITIVE,1
+298,monetary policy will need to be highly supportive of economic activity for quite some time,0.14015303552150726,-0.9877848625183105,NEGATIVE,0
+299,assigns regulators the responsibility for calibrating requirements,0.012781410478055477,0.9495960474014282,POSITIVE,1
+300,statistical evidence is harder to come by.,0.019517773762345314,-0.9994469285011292,NEGATIVE,0
+301,"with appropriate policy accommodation, economic activity will expand at a moderate pace",0.10238612443208694,0.9989474415779114,POSITIVE,1
+302,keeps pace,0.011772400699555874,0.9995747208595276,POSITIVE,1
+303,insufficiently capitalized,0.8892862796783447,-0.9997438788414001,NEGATIVE,0
+304,the stance of monetary policy will remain highly accommodative,0.06391270458698273,0.9974650144577026,POSITIVE,1
+305,we cannot make sensible monetary policy choices without taking them into account,0.29333338141441345,-0.9991542100906372,NEGATIVE,0
+306,generally remain highly accommodative,0.4783349931240082,0.9940353631973267,POSITIVE,1
+307,it will be necessary to put the missing fiscal framework into place,0.09341176599264145,-0.9992597699165344,NEGATIVE,0
+308,community banks are here to stay,0.1115344911813736,0.9896092414855957,POSITIVE,1
+309,Monetary Policy as Financial Stability Regulation,0.08561330288648605,0.5251322984695435,POSITIVE,1
+310,this is not a formalistic bureaucratic exercise,0.016018927097320557,-0.9983609318733215,NEGATIVE,0
+311,We do not regard such observations as criticism of our examiners,0.037323080003261566,-0.8659183382987976,NEGATIVE,0
+312,The ultimate goal is to develop evidence-based policies,0.022951889783143997,0.8687286376953125,POSITIVE,1
+313,it is going to be a fascinating and informative two days,0.054259005934000015,0.9998013377189636,POSITIVE,1
+314,we should make appropriate changes to regulation and the structure of regulation as necessary,0.22362162172794342,0.9475116729736328,POSITIVE,1
+315,contractionary fiscal policy at all levels of government,0.17659953236579895,-0.9891752600669861,NEGATIVE,0
+316,With this market shrinking dramatically,0.12268106639385223,-0.9991970658302307,NEGATIVE,0
+317,they were not sufficient to avoid a severe global contraction,0.3788147568702698,-0.9994874000549316,NEGATIVE,0
+318,Given New York's preeminence as a center of global finance,0.09395882487297058,0.9842032194137573,POSITIVE,1
+319,We think it's important,0.061313070356845856,0.99921715259552,POSITIVE,1
+320,it is also necessary for policymakers to identify some priority,0.010705525055527687,0.9885008335113525,POSITIVE,1
+321,the reforms are both essential and generally on target,0.09911730885505676,0.9983555674552917,POSITIVE,1
+322,unique capacity of monetary policy to act across the financial system.,0.14951984584331512,0.9996780157089233,POSITIVE,1
+323,it is often necessary to tailor regulations,0.026835359632968903,-0.985516369342804,NEGATIVE,0
+324,We are well along the road of implementing regulatory and supervisory policies,0.09892015904188156,0.9965531826019287,POSITIVE,1
+325,regulation expanded to encompass fair and open access to financial services for consumers,0.2845195531845093,0.9969823956489563,POSITIVE,1
+326,supportive policy remains necessary,0.2748293876647949,0.9991390705108643,POSITIVE,1
+327,economies develop and become more stable through diversification,0.004295566119253635,0.9986066222190857,POSITIVE,1
+328,"The hypothesis that this is all the result of ""a few bad apples",0.045793354511260986,-0.9997788071632385,NEGATIVE,0
+329,community banks play a vital role in the U.S. financial system,0.007329957559704781,0.9974754452705383,POSITIVE,1
+330,we cannot make sensible monetary policy choices without taking them into account,0.2649519145488739,-0.9991542100906372,NEGATIVE,0
+331,There is no consensus,0.127004012465477,-0.9990085959434509,NEGATIVE,0
+332,I have succeeded in whetting your appetite for the sessions that lie ahead,0.04748139902949333,0.9992076754570007,POSITIVE,1
+333,the Fed can help you in carrying out your mission,0.030008243396878242,0.7946216464042664,POSITIVE,1
+334,doubt that anyone could have imagined how pervasive it would eventually become.,0.08792188763618469,-0.9798997044563293,NEGATIVE,0
+335,monetary policy is not on a preset path,0.45447537302970886,-0.9909107089042664,NEGATIVE,0
+336,discretionary fiscal policy shifted relatively fast,0.2661055326461792,0.6107448935508728,POSITIVE,1
+337,Strong risk management is essential,0.11767227202653885,0.9996060729026794,POSITIVE,1
+338,monetary policy faces significant limitations,0.16481132805347443,-0.9955655932426453,NEGATIVE,0
+339,If regulators are to make the necessary adaptations,0.0654749944806099,-0.9154385328292847,NEGATIVE,0
+340,lies at least in part with the centrality and nature of risk,0.032122399657964706,0.9904879927635193,POSITIVE,1
+341,to hold the policy rate near zero,0.0032756656873971224,-0.9993162155151367,NEGATIVE,0
+342,he stood up for what he believed was right and necessary,0.03068890981376171,0.999365508556366,POSITIVE,1
+343,the Fed has continued to use its monetary policy tools to promote the recovery,0.012381726875901222,0.988453209400177,POSITIVE,1
+344,aims for a particular type of financial institution,0.02751093916594982,0.9481415152549744,POSITIVE,1
+345,can have powerful effects,0.10153932124376297,0.9998230338096619,POSITIVE,1
+346,expansion in lending must be prudent,0.04528769105672836,-0.9517124891281128,NEGATIVE,0
+347,the path of the economy is uncertain,0.10806854814291,-0.9989047050476074,NEGATIVE,0
+348,conferences like the FMC will continue to be a vital part of the process,0.04633256047964096,0.9991381168365479,POSITIVE,1
+349,"monetary policy cannot be the only, or even the principal, tool",0.12123743444681168,-0.9981695413589478,NEGATIVE,0
+350,Monetary policy is one such tool,0.18139776587486267,0.752151608467102,POSITIVE,1
+351,As we continue to make progress in recovering from the Great Recession,0.009453514590859413,0.9926571249961853,POSITIVE,1
+352,traditional resources for community development are shrinking,0.02950134687125683,-0.9991801381111145,NEGATIVE,0
+353,"we deploy, to guide the financial system and influence our vast economy",0.042219843715429306,0.998961329460144,POSITIVE,1
+354,monetary policy would be left to take up some of the slack,0.08879469335079193,-0.9993420243263245,NEGATIVE,0
+355,monetary policy action cannot be taken off the table,0.2562480866909027,-0.7694275975227356,NEGATIVE,0
+356,expansionary fiscal policy is likely both more effective and less costly,0.12697650492191315,0.8333076238632202,POSITIVE,1
+357,it would have been impossible to develop the innovative policies,0.22208446264266968,-0.999354898929596,NEGATIVE,0
+358,improved communication can help our policies work better,0.19208964705467224,0.9858474135398865,POSITIVE,1
+359,concentrate on short-term wholesale funding,0.11627791821956635,-0.9948195815086365,NEGATIVE,0
+360,it is imperative that international standards,0.017931116744875908,-0.9744729399681091,NEGATIVE,0
+361,no longer possible,0.11936602741479874,-0.9996589422225952,NEGATIVE,0
+362,anniversaries also provide a time for reflection and self-assessment,0.02192632295191288,0.9952444434165955,POSITIVE,1
+363,our economy need informed citizens who can think independently and critically,0.21586285531520844,0.9879024624824524,POSITIVE,1
+364,deftly managed monetary policy,0.2437831461429596,0.9978674650192261,POSITIVE,1
+365,this is not sufficient to deal with fire-sales externalities,0.22398458421230316,-0.9998001456260681,NEGATIVE,0
+366,not sufficient,0.29846662282943726,-0.9997686743736267,NEGATIVE,0
+367,adequate loss-absorbing capacity within large financial firms,0.03200182318687439,0.9979526996612549,POSITIVE,1
+368,"To ensure appropriate accountability, while also making monetary policy more effective",0.1158304288983345,0.9696056246757507,POSITIVE,1
+369,consistent with its policy intentions,0.09687629342079163,0.9981247782707214,POSITIVE,1
+370,I look forward to the discussions.,0.0664866492152214,0.9998051524162292,POSITIVE,1
+371,the conference has been a great success.,0.1813206821680069,0.9998714923858643,POSITIVE,1
+372,Although firm plans have not yet been made,0.013399762101471424,-0.9616586565971375,NEGATIVE,0
+373,central,0.03024083934724331,0.9969519376754761,POSITIVE,1
+374,focus on resiliency was initially a matter of necessity,0.023149391636252403,-0.966924786567688,NEGATIVE,0
+375,Comprehensive financial regulation is required,0.2765684723854065,0.9887750148773193,POSITIVE,1
+376,it is not sufficient,0.5164071321487427,-0.9997914433479309,NEGATIVE,0
+377,I will turn for a moment to monetary policy,0.09937301278114319,-0.7801839709281921,NEGATIVE,0
+378,this choice made a lot of sense,0.04727241024374962,0.9977797865867615,POSITIVE,1
+379,The case for continued support for the economy from monetary policy is strong,0.3300912380218506,0.9993458390235901,POSITIVE,1
+380,"It is not only possible and desirable, but also necessary",0.06738358736038208,0.9996657371520996,POSITIVE,1
+381,"I'll stop there, and I look forward to the discussion.",0.34316137433052063,0.9998528957366943,POSITIVE,1
+382,"Please note, these points have nothing whatsoever to do with interest rates",0.016913363710045815,-0.9991951584815979,NEGATIVE,0
+383,I wish you the best in facing the difficult but exciting challenges that lie ahead,0.05266968533396721,0.9994032382965088,POSITIVE,1
+384,We will continue to calibrate monetary policy,0.5198432803153992,0.9972116351127625,POSITIVE,1
+385,remain more financially fragile,0.016759665682911873,-0.9962634444236755,NEGATIVE,0
+386,questions remain as to whether all this is enough to contain the problem,0.14393122494220734,-0.9981735944747925,NEGATIVE,0
+387,hold HQLA sufficient to accommodate those outflows,0.3028143644332886,0.9978622794151306,POSITIVE,1
+388,implications for monetary policy,0.09643596410751343,0.9499471187591553,POSITIVE,1
+389,they support the broader regulatory strategy,0.04466253146529198,0.9975678324699402,POSITIVE,1
+390,central bankers view monetary policy as a blunt tool for addressing financial stability concerns,0.039312880486249924,-0.9524590969085693,NEGATIVE,0
+391,local leadership,0.08128426223993301,0.997960090637207,POSITIVE,1
+392,level of capital is essential,0.3233656883239746,0.998680055141449,POSITIVE,1
+393,lowering the federal funds rate--off the table,0.5924865007400513,-0.9983673691749573,NEGATIVE,0
+394,Effective communication in monetary policy is more important than ever,0.43327370285987854,0.9994096755981445,POSITIVE,1
+395,appropriately expansionary policies to help support recovery and price stability in their own countries,0.11892478168010712,0.9968984127044678,POSITIVE,1
+396,contingent work,0.6573653221130371,0.9985617995262146,POSITIVE,1
+397,Capacity may be slow to expand,0.4787004590034485,-0.9997188448905945,NEGATIVE,0
+398,claims of its unsecured debt holders will be written down as necessary,0.06928414851427078,-0.9990102052688599,NEGATIVE,0
+399,to maintain a highly accommodative stance,0.2777425944805145,0.9907664060592651,POSITIVE,1
+400,remarks with the admonition that these views are my own,0.04017441347241402,-0.7982534766197205,NEGATIVE,0
+401,the monetary policy issues are not directly related to this agenda,0.043288495391607285,-0.998711347579956,NEGATIVE,0
+402,Research is helpful,0.020778926089406013,0.9997004270553589,POSITIVE,1
+403,Financial globalization,0.02749180607497692,0.9784348011016846,POSITIVE,1
+404,decision about the appropriate percentage of GDP that would constitute the cap,0.10676951706409454,-0.7129717469215393,NEGATIVE,0
+405,one necessary condition is that there is some form of market segmentation,0.0254642553627491,-0.9644591212272644,NEGATIVE,0
+406,Conclusion        The imperative for change in our foreign bank regulation is clear,0.39925315976142883,0.9961155652999878,POSITIVE,1
+407,As background for our monetary policy decisionmaking,0.2609441578388214,0.9844985604286194,POSITIVE,1
+408,Although regulatory policy will be important for restoring a fully functioning housing and mortgage market,0.06852278113365173,-0.5609578490257263,NEGATIVE,0
+409,it will require a different approach,0.17732279002666473,-0.9367378950119019,NEGATIVE,0
+410,not a panacea,0.18735948204994202,-0.9924342632293701,NEGATIVE,0
+411,conventional monetary policy is thought to work via an expectations channel,0.17640718817710876,-0.9250527024269104,NEGATIVE,0
+412,highly accommodative,0.3573547601699829,0.998762845993042,POSITIVE,1
+413,inadequate to mitigate the grave risk,0.20895768702030182,-0.9996638298034668,NEGATIVE,0
+414,monetary policy is no panacea,0.058727264404296875,-0.9885852932929993,NEGATIVE,0
+415,challenging,0.15853510797023773,0.9997357726097107,POSITIVE,1
+416,Smart financial planning,0.0034489117097109556,0.999811589717865,POSITIVE,1
+417,I wish you the best for a productive and stimulating conference.,0.04309071972966194,0.9998472929000854,POSITIVE,1
+418,inflation-adjusted annual rates of return,0.009318971075117588,-0.8996108174324036,NEGATIVE,0
+419,it is not inconceivable,0.07241266965866089,-0.9997038245201111,NEGATIVE,0
+420,monetary policy is conducted to achieve our statutory objectives of maximum employment and price stability,0.12672218680381775,0.9958562254905701,POSITIVE,1
+421,neither necessary,0.19951455295085907,-0.9993320107460022,NEGATIVE,0
+422,It is difficult to think of a single prescription,0.034408532083034515,-0.9988767504692078,NEGATIVE,0
+423,enhanced supervision and regulation has made it more difficult for banks to expand their lending,0.054803669452667236,-0.986465334892273,NEGATIVE,0
+424,It is thus natural,0.021595126017928123,0.9998342990875244,POSITIVE,1
+425,the promotion of financial stability must be on an equal footing,0.08931049704551697,0.9829506278038025,POSITIVE,1
+426,insufficient to promote a more robust and sustainable improvement in household net worth,0.09545891731977463,-0.9994901418685913,NEGATIVE,0
+427,higher rate,0.010200856253504753,0.9986850619316101,POSITIVE,1
+428,the principal function of central banks,0.0345558300614357,0.9858023524284363,POSITIVE,1
+429,Taking an entrepreneurial approach to community development results in innovative and effective programs,0.06492411345243454,0.9998393058776855,POSITIVE,1
+430,the conference will feature original research on monetary policy,0.007566893473267555,0.9991611242294312,POSITIVE,1
+431,that two-way communication between regulators and community banks is critical,0.04620610550045967,-0.9989374279975891,NEGATIVE,0
+432,the pace of expansion is likely to remain modest over coming quarters,0.24816077947616577,0.9452045559883118,POSITIVE,1
+433,accommodative,0.243444561958313,0.9966986775398254,POSITIVE,1
+434,No single solution will be sufficient,0.3373793661594391,-0.9996461868286133,NEGATIVE,0
+435,monetary policy is implemented through the purchase or sale of securities,0.10142222046852112,0.9206653237342834,POSITIVE,1
+436,the intensity of my tenure more than offsets its relatively short duration,0.015289248898625374,0.7742381691932678,POSITIVE,1
+437,Appropriately tailored enforcement,0.06532952934503555,0.9985358715057373,POSITIVE,1
+438,The Federal Reserve's monetary policy has been accommodative,0.5509039759635925,0.9956938028335571,POSITIVE,1
+439,preemptive policies,0.41203391551971436,-0.6248091459274292,NEGATIVE,0
+440,our country takes the steps that are necessary to prepare for the future,0.2090914249420166,0.9989117383956909,POSITIVE,1
+441,"it is not, on its own, sufficient",0.19499295949935913,-0.9997841715812683,NEGATIVE,0
+442,We hope that each of you will find this experience worthwhile as well.,0.003260707249864936,0.9998255372047424,POSITIVE,1
+443,a return to early practice is not feasible,0.1458483785390854,-0.9997641444206238,NEGATIVE,0
+444,Think about your own 401(k),0.059875644743442535,0.9877033233642578,POSITIVE,1
+445,Transparency,0.8470196723937988,0.9993578791618347,POSITIVE,1
+446,can still do.,0.24488601088523865,0.9991694688796997,POSITIVE,1
+447,monetary policy should remain focused on macroeconomic objectives,0.23980680108070374,-0.9798647165298462,NEGATIVE,0
+448,these remarks are intended to express my own views,0.0939682349562645,0.8209438920021057,POSITIVE,1
+449,disciplined fiscal policies,0.057172585278749466,0.8800126314163208,POSITIVE,1
+450,forward guidance can be a potent tool of monetary policy,0.24558983743190765,0.999164342880249,POSITIVE,1
+451,more complicated set of trade-offs may be needed,0.034539543092250824,-0.9958938360214233,NEGATIVE,0
+452,While the previous three conferences focused on monetary policy issues,0.06986017525196075,0.8294093608856201,POSITIVE,1
+453,longer-term prospects for our economy,0.04993710666894913,-0.9833871722221375,NEGATIVE,0
+454,finding different approaches to the policies that are hindering refinancing,0.04289030283689499,-0.9848373532295227,NEGATIVE,0
+455,monetary policy that ensures that inflation remains low and stable over time,0.2614734172821045,0.9960028529167175,POSITIVE,1
+456,impacts low- and moderate-income consumers,0.17143979668617249,-0.9635551571846008,NEGATIVE,0
+457,Conclusion        The task of developing and implementing sustainable fiscal policies is daunting,0.1408890187740326,0.9772534966468811,POSITIVE,1
+458,to default on their mortgages and possibly face foreclosure,0.005948231555521488,-0.9889489412307739,NEGATIVE,0
+459,monetary policy cannot be a panacea,0.13322600722312927,-0.9731089472770691,NEGATIVE,0
+460,must at times induce higher credit costs,0.1285547912120819,-0.9915485978126526,NEGATIVE,0
+461,effective regulation of consumer products is the first step in ensuring positive outcomes for consumers,0.006071767769753933,0.9992764592170715,POSITIVE,1
+462,significantly boost economic growth,0.030512230470776558,0.999861478805542,POSITIVE,1
+463,The ties between Mexico and the United States,0.029536578804254532,0.9990476965904236,POSITIVE,1
+464,policymakers consider capital models for CDFIs,0.028300244361162186,0.520459771156311,POSITIVE,1
+465,yield better macroeconomic policy,0.2288684993982315,0.988754391670227,POSITIVE,1
+466,ineffective,0.45823904871940613,-0.999788224697113,NEGATIVE,0
+467,"Needless to say, that endeavor is more crucial than ever",0.1728365570306778,0.998017430305481,POSITIVE,1
+468,strategic targeting of limited resources may be necessary,0.11583907902240753,-0.9316688776016235,NEGATIVE,0
+469,Monetary policy cannot directly alter this transfer of income abroad,0.3001203238964081,-0.9526371955871582,NEGATIVE,0
+470,policymakers will need to find a similar balance between the responsibilities of examiners,0.02255171909928322,-0.9994664788246155,NEGATIVE,0
+471,Pudd'nhead Wilson would agree that that is one important basket.,0.07723549008369446,0.6855987906455994,POSITIVE,1
+472,today I will focus on some aspects of its relevance for financial regulation,0.2080494612455368,0.9907970428466797,POSITIVE,1
+473,allows us to bring unique insights and value-added to our supervisory activities,0.020909257233142853,0.9998131394386292,POSITIVE,1
+474,expansion of public-sector deficits and debts in many countries,0.01154233142733574,0.6804475784301758,POSITIVE,1
+475,American Recovery and Reinvestment Act of 2009,0.007060246542096138,0.9922216534614563,POSITIVE,1
+476,accommodative monetary policies,0.11250004172325134,0.9833194613456726,POSITIVE,1
+477,accommodative monetary policy,0.014740624465048313,0.9938866496086121,POSITIVE,1
+478,accommodative,0.5991820693016052,0.9966986775398254,POSITIVE,1
+479,long-term perspective,0.127240851521492,0.9426724314689636,POSITIVE,1
+480,the recent news on production and spending offers some encouragement,0.15355134010314941,0.9976884126663208,POSITIVE,1
+481,I wish you great success in your work,0.005722813308238983,0.9998708963394165,POSITIVE,1
+482,lowering the overnight federal funds rate by increasing the supply of reserve balances,0.1319313794374466,-0.5432012677192688,NEGATIVE,0
+483,eased through the conventional means of cuts in short-term policy rates,0.08476800471544266,0.7858026027679443,POSITIVE,1
+484,expanding its expertise in working with the industry,0.01245554257184267,0.9993314743041992,POSITIVE,1
+485,"specify, and still remain amply capitalized",0.11227129399776459,-0.9263806939125061,NEGATIVE,0
+486,expanding the Fed's balance sheet is not a free option,0.19019293785095215,-0.9994778037071228,NEGATIVE,0
+487,This new platform will help inform our monetary policy,0.03898753970861435,0.9992807507514954,POSITIVE,1
+488,we begin the monetary policy go-round,0.1673639565706253,0.9960386753082275,POSITIVE,1
+489,Financial education helps young people cultivate a sense of financial responsibility,0.00024416984524577856,0.9994269609451294,POSITIVE,1
+490,monetary policy works with a lag,0.17646534740924835,-0.9982026815414429,NEGATIVE,0
+491,neither fiscal nor monetary policy,0.1293928027153015,-0.9979968667030334,NEGATIVE,0
+492,approach is sufficiently ambitious,0.048793353140354156,0.999830961227417,POSITIVE,1
+493,I look forward to your questions.,0.023661164566874504,0.9998268485069275,POSITIVE,1
+494,we would generally think they should not,0.1682177484035492,-0.9957269430160522,NEGATIVE,0
+495,all share a common goal,0.07738520950078964,0.9990150928497314,POSITIVE,1
+496,"In any case, these are thoughts for further discussion, rather than developed options",0.03552262857556343,-0.9973230957984924,NEGATIVE,0
+497,It is not sufficient,0.5707046389579773,-0.9997914433479309,NEGATIVE,0
+498,Monetary policy remains very accommodative,0.38358914852142334,0.9912039041519165,POSITIVE,1
+499,the economy seems to have stabilized and is expanding again,0.04946887493133545,0.9980611205101013,POSITIVE,1
+500,Do policymakers have adequate and reliable data,0.03263043612241745,0.9973011612892151,POSITIVE,1
+501,do not impede the flow of credit to all eligible borrowers,0.07358486950397491,0.9925737380981445,POSITIVE,1
+502,have had difficulty obtaining the credit that they need to expand,0.04521999508142471,-0.9989990592002869,NEGATIVE,0
+503,do not impede the flow of credit,0.09022295475006104,0.9934614896774292,POSITIVE,1
+504,fiscal consolidation,0.1358143538236618,0.953284502029419,POSITIVE,1
+505,it is not sufficient,0.392361581325531,-0.9997914433479309,NEGATIVE,0
+506,Effort will be required on many fronts,0.3415174186229706,0.9899360537528992,POSITIVE,1
+507,I am confident we will get there.,0.03637905418872833,0.9998102784156799,POSITIVE,1
+508,we are now in the fourth quarter of economic expansion,0.1765689104795456,0.9895167946815491,POSITIVE,1
+509,monetary policies has increased,0.5461858510971069,0.9976281523704529,POSITIVE,1
+510,inconsistent with long-run price stability,0.13016721606254578,-0.9991697072982788,NEGATIVE,0
+511,we also needed to adapt and innovate in the conduct of monetary policy,0.11138030886650085,-0.9382444620132446,NEGATIVE,0
+512,Neither task is easy,0.11523767560720444,-0.9985153079032898,NEGATIVE,0
+513,money is not enough,0.4030979871749878,-0.9989845156669617,NEGATIVE,0
+514,the banking system as a whole should be confidence-enhancing,0.032925549894571304,0.9950863718986511,POSITIVE,1
+515,The Council advises the Fed about policies that impact consumers,0.07294081896543503,0.9927701354026794,POSITIVE,1
+516,meeting this challenge is absolutely essential,0.1427970677614212,0.9998183846473694,POSITIVE,1
+517,technology advances and U.S. dollar flows expand and increase,0.026305051520466805,0.9996408224105835,POSITIVE,1
+518,Effective workforce development,0.1682860404253006,0.9998328685760498,POSITIVE,1
+519,Our approach is two-pronged,0.004933653399348259,0.6953585743904114,POSITIVE,1
+520,"Against this backdrop, and mindful that my audience is composed of institutional investors",0.00934250745922327,0.9985768795013428,POSITIVE,1
+521,the Fed cannot simply raise its target for the federal funds rate,0.5039323568344116,-0.9633237719535828,NEGATIVE,0
+522,I hope that some of you might contribute to that endeavor,0.05404847487807274,0.9988238215446472,POSITIVE,1
+523,gradual pickup in economic activity,0.08754955977201462,-0.9895646572113037,NEGATIVE,0
+524,Financial Literacy Month 2010,0.007729152217507362,0.940750777721405,POSITIVE,1
+525,thusââit was thought--broadly dispersing the underlying risks,0.05246816202998161,-0.9747772216796875,NEGATIVE,0
+526,Lending issues have been central to our discussions of monetary policy,0.158051535487175,0.986857533454895,POSITIVE,1
+527,Conclusion,0.015739543363451958,0.9975615739822388,POSITIVE,1
+528,is critical,0.06643124669790268,-0.9993057250976562,NEGATIVE,0
+529,Central banks would commit to adjusting policy to keep the CPI near that line,0.04531397670507431,-0.9943530559539795,NEGATIVE,0
+530,Careful planning is therefore essential,0.25088411569595337,0.9959661960601807,POSITIVE,1
+531,expansion of the universe of firms perceived as too big to fail,0.08159027248620987,-0.9643698930740356,NEGATIVE,0
+532,Those who believe that additional regulatory measures are necessary have mostly turned to structural measures,0.016375988721847534,-0.9934865236282349,NEGATIVE,0
+533,do not signal any change in the outlook for monetary policy,0.2639346122741699,-0.9990794658660889,NEGATIVE,0
+534,monetary policy in the longer-term economic interests of the American people,0.007269759196788073,0.945935070514679,POSITIVE,1
+535,the prescription is unlikely to be effective,0.1156165599822998,-0.9997420907020569,NEGATIVE,0
+536,uncharted waters,0.14743666350841522,0.9793715476989746,POSITIVE,1
+537,accommodative,0.43111157417297363,0.9966986775398254,POSITIVE,1
+538,it is the Federal Reserve's,0.0568537674844265,0.9931693077087402,POSITIVE,1

@@ -1,0 +1,98 @@
+,answer,ans_score,senti_score,label,dummy
+0,U.S. growth prospects were better than those in Europe and Japan,0.49875134229660034,0.9976288676261902,POSITIVE,1
+1,improved functioning of financial markets,0.5083889365196228,0.9996426105499268,POSITIVE,1
+2,economic activity has continued to strengthen and that the labor market is beginning to improve,0.15266425907611847,0.9990547299385071,POSITIVE,1
+3,Measures of consumer sentiment improved,0.25830313563346863,0.9984147548675537,POSITIVE,1
+4,The U,0.38192328810691833,0.9539116024971008,POSITIVE,1
+5,improve,0.22324444353580475,0.9997562766075134,POSITIVE,1
+6,promote a stronger pace of economic recovery,0.18047402799129486,0.9997377991676331,POSITIVE,1
+7,economic conditions were improving,0.6827417612075806,0.9991902709007263,POSITIVE,1
+8,Conditions in financial markets improved somewhat further over the intermeeting period,0.07558450102806091,0.9951983094215393,POSITIVE,1
+9,overall conditions in the labor market were gradually improving,0.19524385035037994,0.9935867190361023,POSITIVE,1
+10,overall conditions in the labor market are improving gradually,0.2466028779745102,0.9974220991134644,POSITIVE,1
+11,projections are broadly balanced,0.21918801963329315,0.9998317956924438,POSITIVE,1
+12,the policy step would do little to improve near-term growth prospects,0.2292490303516388,-0.9997369647026062,NEGATIVE,0
+13,overall labor market conditions had shown no improvement,0.14807969331741333,-0.9988974332809448,NEGATIVE,0
+14,modest improvement,0.2587171196937561,0.9998024106025696,POSITIVE,1
+15,The balance sheets of most U.S. banks appeared to have improved somewhat,0.4573536515235901,0.9894925355911255,POSITIVE,1
+16,the economy has been expanding moderately,0.4847296178340912,0.9987568855285645,POSITIVE,1
+17,Labor market conditions have improved further,0.28532499074935913,0.9976471066474915,POSITIVE,1
+18,more vigorous recovery,0.1587398797273636,0.9998056292533875,POSITIVE,1
+19,the economy would continue to expand at a moderate pace,0.23777566850185394,0.9984477758407593,POSITIVE,1
+20,gradually improving,0.6945240497589111,0.9997263550758362,POSITIVE,1
+21,If the outlook for the labor market does not improve substantially,0.2656353712081909,-0.9993498921394348,NEGATIVE,0
+22,If the outlook for the labor market does not improve substantially,0.343729168176651,-0.9993498921394348,NEGATIVE,0
+23,If the outlook for the labor market does not improve substantially,0.4181029796600342,-0.9993498921394348,NEGATIVE,0
+24,If the outlook for the labor market does not improve substantially,0.3523629605770111,-0.9993498921394348,NEGATIVE,0
+25,Conditions in the housing sector improved further,0.23936079442501068,0.9993645548820496,POSITIVE,1
+26,the public’s understanding of the likely exit process might not be improved,0.23404455184936523,-0.9996644258499146,NEGATIVE,0
+27,Conditions in the housing sector generally improved further,0.17678120732307434,0.9991511106491089,POSITIVE,1
+28,Conditions in the housing sector generally improved further,0.3474617898464203,0.9991511106491089,POSITIVE,1
+29,economic recovery strengthens,0.3664776086807251,0.9998422861099243,POSITIVE,1
+30,Indicators of labor market conditions,0.31801462173461914,-0.9781869053840637,NEGATIVE,0
+31,economic growth is likely to be sustained above its potential rate,0.5377004146575928,0.9989078044891357,POSITIVE,1
+32,Reflecting the improved outlook for economic activity,0.41428229212760925,0.9996508359909058,POSITIVE,1
+33,If economic conditions evolve in an unexpected manner,0.06488963216543198,0.9986388087272644,POSITIVE,1
+34,labor market conditions would continue to improve gradually,0.10133794695138931,0.9821261763572693,POSITIVE,1
+35,Labor market conditions generally improved further,0.25349611043930054,0.9991104006767273,POSITIVE,1
+36,market conditions improved,0.26494312286376953,0.9995278120040894,POSITIVE,1
+37,Labor market conditions improved a little further,0.1544395089149475,0.9950159192085266,POSITIVE,1
+38,Labor market conditions improved somewhat further,0.12081103771924973,0.997490406036377,POSITIVE,1
+39,Labor market conditions improved further,0.3492017686367035,0.9986912608146667,POSITIVE,1
+40,The pace of housing market activity improved somewhat but remained slow,0.38369661569595337,-0.9968830347061157,NEGATIVE,0
+41,Projections of change in real gross,0.312317818403244,-0.9258537292480469,NEGATIVE,0
+42,improvement in the labor market,0.26509711146354675,0.9983444213867188,POSITIVE,1
+43,gradually,0.34996089339256287,0.9823278188705444,POSITIVE,1
+44,the economic outlook was evolving as they anticipated,0.18845786154270172,0.9980964064598083,POSITIVE,1
+45,to improve slowly,0.28316813707351685,-0.7262954711914062,NEGATIVE,0
+46,economic activity has been expanding at a moderate pace,0.09789063781499863,0.9981378316879272,POSITIVE,1
+47,labor market conditions had improved further,0.20003102719783783,0.9924030303955078,POSITIVE,1
+48,labor market conditions,0.30880656838417053,-0.9965268969535828,NEGATIVE,0
+49,labor market conditions were continuing to improve,0.24019832909107208,0.8976753354072571,POSITIVE,1
+50,U.S. and global financial conditions improved significantly,0.30602937936782837,0.9996447563171387,POSITIVE,1
+51,these regimes are persistent,0.17318645119667053,-0.9910343289375305,NEGATIVE,0
+52,the housing sector was likely to continue to improve,0.15620338916778564,0.714819073677063,POSITIVE,1
+53,the Procedural Instructions were rescinded,0.11391986161470413,-0.9801478385925293,NEGATIVE,0
+54,labor market conditions had improved further,0.0786057561635971,0.9924030303955078,POSITIVE,1
+55,the incoming Congress and Administration would enact significant fiscal stimulus measures,0.310067355632782,0.9933850169181824,POSITIVE,1
+56,The outlook for the business sector improved further over the intermeeting period,0.16097533702850342,0.9972113966941833,POSITIVE,1
+57,the economy shifts between regimes in a way that cannot be forecast,0.17169876396656036,0.6141677498817444,POSITIVE,1
+58,raising the federal funds rate,0.4782143235206604,0.993096649646759,POSITIVE,1
+59,the labor market had improved further,0.24548472464084625,0.9949766993522644,POSITIVE,1
+60,Bond yields in advanced economies increased moderately,0.41204899549484253,0.9990705847740173,POSITIVE,1
+61,The credit quality of state and local governments improved overall,0.3468768298625946,0.9997542500495911,POSITIVE,1
+62,the labor market has continued to strengthen,0.17187176644802094,0.9987452030181885,POSITIVE,1
+63,to offset the effects of shocks to the economy,0.284615159034729,0.7399216294288635,POSITIVE,1
+64,not feasible in the time available,0.07458991557359695,-0.9998040795326233,NEGATIVE,0
+65,the U.S. economy might be able to sustain lower unemployment rates,0.2351282835006714,-0.9979690909385681,NEGATIVE,0
+66,U.S. equity prices lower,0.11933024972677231,-0.9981985688209534,NEGATIVE,0
+67,the economy would expand at an above,0.4294745922088623,0.9989873766899109,POSITIVE,1
+68,the economy would expand at an above-trend pace,0.27358177304267883,0.9991165995597839,POSITIVE,1
+69,costs to the economy should they occur,0.08085376024246216,-0.9943103790283203,NEGATIVE,0
+70,expectation that economic growth would slow to a pace closer to trend,0.18494698405265808,-0.9982970356941223,NEGATIVE,0
+71,gradual,0.4829277992248535,-0.7511091828346252,NEGATIVE,0
+72,partial federal government shutdown,0.09563471376895905,-0.9986496567726135,NEGATIVE,0
+73,"the United States, equity indexes moved higher and credit spreads tightened",0.2424343079328537,-0.8792214393615723,NEGATIVE,0
+74,global economic and financial conditions continued to improve,0.3999767601490021,0.9993289709091187,POSITIVE,1
+75,economic activity is rising at a moderate rate,0.06072061508893967,0.9954272508621216,POSITIVE,1
+76,orders had improved,0.7058640718460083,0.997465968132019,POSITIVE,1
+77,inflation would tend to be lower than 2 percent,0.18016690015792847,-0.998663067817688,NEGATIVE,0
+78,there was more room for the labor market to improve,0.284913569688797,-0.9993879795074463,NEGATIVE,0
+79,there was more room for the labor market to improve,0.284913569688797,-0.9993879795074463,NEGATIVE,0
+80,the prospects for global economic growth may be stabilizing,0.17175690829753876,-0.9756946563720703,NEGATIVE,0
+81,inflation would return to the 2 percent objective on a sustainable basis,0.1079062893986702,-0.8292657136917114,NEGATIVE,0
+82,Staff Economic Outlook The projection,0.33726876974105835,0.9962558746337891,POSITIVE,1
+83,U.S. labor market conditions deteriorated substantially,0.4066246449947357,-0.9991705417633057,NEGATIVE,0
+84,Overall financial conditions had improved,0.5256729125976562,0.9977866411209106,POSITIVE,1
+85,little changed over the intermeeting period,0.10486430674791336,-0.9883246421813965,NEGATIVE,0
+86,"inflation expectations, and financial and international developments",0.19588252902030945,-0.9096680879592896,NEGATIVE,0
+87,slightly outpace upgrades,0.10995705425739288,0.9159507155418396,POSITIVE,1
+88,Improved U.S. economic growth prospects,0.4718139171600342,0.9997153878211975,POSITIVE,1
+89,Financing conditions for small businesses appeared to have improved,0.2963113486766815,0.7323395013809204,POSITIVE,1
+90,Demand improved,0.3029235601425171,0.9995970129966736,POSITIVE,1
+91,damp the economic recovery,0.14389872550964355,-0.9634679555892944,NEGATIVE,0
+92,improve,0.6136178970336914,0.9997562766075134,POSITIVE,1
+93,The sectors most adversely affected by the pandemic had improved,0.17450495064258575,0.9873381853103638,POSITIVE,1
+94,Broad measures of small businesses’ financial health improved slightly,0.16987091302871704,0.9968768358230591,POSITIVE,1
+95,reducing the size of the balance sheet,0.40451717376708984,-0.9496637582778931,NEGATIVE,0
+96,appreciation of the dollar,0.40812933444976807,0.9995794892311096,POSITIVE,1
