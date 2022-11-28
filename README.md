@@ -15,16 +15,23 @@
 
 
 
+## Data
+
+- __textual data__ collected from the FED website: `minutes`, `beigebook`, `speech`
+- __numeric data__: `prices`, `unemployment rates`
+- __period__: Q3 2010 ~ Q1 2022
+
+
 ## Preprocessed: Pipelines
 
 `from transformers import pipeline`
 
 - __question-answering__: The lines were extracted from the texts through questions that could confirm the economic situation at the time.
-- __sentiment analysis__:  The collected lines were checked whetere they  were positive or negative, and the degrees of sentiment was used for the following analysis.
+- __sentiment analysis__:  The collected lines were checked where they  were positive or negative, and the degrees of sentiment was used for the following analysis.
 
 
 
-## EDA: Averaging
+## EDA: Standardization
 
 1. Combine collected data into a single data frame. (__Quarterly distribution__)
 
